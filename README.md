@@ -37,7 +37,8 @@ public class Calculator {
     return a - b;
   }
 
-  // hello
+  // hello - ***In English***
+  // 안녕하세요 - ***In Korean***
 }
 ```
 
